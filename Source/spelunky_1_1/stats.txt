@@ -1,0 +1,113 @@
++---------------------------+
+|  SPELUNKY EXTENDED STATS  |
++---------------------------+
+
+CRATES OPENED:      32
+CHESTS OPENED:      14
+
+IDOLS GRABBED:      67
+IDOLS CONVERTED:    10
+
+DAMSELS GRABBED:    632
+KISSES BOUGHT:      0
+DAMSELS BOUGHT:     2
+DAMSELS SAVED:      18
+DAMSELS KILLED:     138
+
+ITEMS BOUGHT:       3
+ITEMS STOLEN:       11
+
+DICE GAMES PLAYED:  0
+DICE GAMES WON:     0
+DICE GAMES LOST:    0
+
+LEVEL        DEATHS
+------------+------------
+ 1          | 398
+ 2          | 24
+ 3          | 10
+ 4          | 9
+ 5          | 11
+ 6          | 4
+ 7          | 2
+ 8          | 1
+ 9          | 9
+ 10         | 2
+ 11         | 5
+ 12         | 2
+ 13         | 1
+ 14         | 0
+ 15         | 1
+ 16         | 4
+------------+------------
+ TOTAL      | 483
+
+ENEMY        DEATHS
+------------+------------
+ ???        | 0
+ SNAKE      | 6
+ SPIDER     | 7
+ G. SPIDER  | 1
+ CAVEMAN    | 2
+ SKELETON   | 1
+ ???        | 0
+ ???        | 0
+ FROG       | 4
+ FIRE FROG  | 1
+ MANTRAP    | 3
+ PIRANHA    | 1
+ ???        | 0
+ ???        | 0
+ ???        | 0
+ ???        | 0
+ UFO        | 1
+ ???        | 0
+ ???        | 0
+ SHOPKEEPER | 5
+ ???        | 0
+ ???        | 0
+ OLMEC      | 3
+ ???        | 0
+
+MISC         DEATHS
+------------+------------
+ ???        | 0
+ ???        | 0
+ CRUSHED    | 22
+ LONG FALL  | 35
+ SPIKES     | 32
+ ???        | 0
+ ARROW TRAP | 19
+ SPEAR TRAP | 2
+ SMASH TRAP | 3
+ ???        | 0
+ PIT        | 11
+ ???        | 0
+
+ENEMY        KILLS
+------------+------------
+ BAT        | 117
+ SNAKE      | 269
+ SPIDER     | 76
+ G. SPIDER  | 7
+ CAVEMAN    | 4
+ SKELETON   | 16
+ ZOMBIE     | 8
+ ???        | 0
+ FROG       | 29
+ MONKEY     | 4
+ FIRE FROG  | 8
+ ???        | 0
+ PIRANHA    | 3
+ ???        | 0
+ ???        | 0
+ YETI KING  | 25
+ ???        | 0
+ ???        | 0
+ ???        | 0
+ ???        | 0
+ SHOPKEEPER | 3
+ ???        | 0
+ OLMEC      | 1
+------------+------------
+ TOTAL      | 570
